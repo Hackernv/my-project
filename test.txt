@@ -1,2 +1,7 @@
 There is nothing to see In this file:
+<<<<<<< HEAD
 WHAT ARE GOING NOW?
+=======
+
+everyone can see this file ,But nothing in this file:
+>>>>>>> 83c90b7e9115988952022239fefa5e6918e0c003
